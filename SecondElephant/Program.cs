@@ -6,7 +6,7 @@ namespace SecondElephant
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine(5);
+            Elephant lucinda = new Elephant();
         }
     }
 }
